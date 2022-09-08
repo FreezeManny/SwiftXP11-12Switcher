@@ -3,6 +3,25 @@ This script allows you to switch Swift Version 0.12.2 between XP11 and XP12 use 
 
 IMPORTANT: Download from the releases page
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Instruction:
 set up config.json
 1. At first find out the paths of the folder where the X-Plane 11 and X-Plane 12 .exe file is located at. Enter these paths in the "" behind the "xp1X_path".
